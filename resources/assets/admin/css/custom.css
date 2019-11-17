@@ -1,0 +1,19 @@
+.ajax-validate-error {
+
+	color: #981b1b;
+    font-size: 15px;
+    position: relative;
+    line-height: 1;
+    width: 100%;
+}
+
+form button .fa {
+	font-weight:600 !important;
+}
+form button {
+	font-size: 14px;
+}
+
+.hide{
+	display: none;
+}
